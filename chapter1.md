@@ -4,6 +4,82 @@ description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
+
+---
+## <<<练习1>>>
+
+```yaml
+type: MultipleChoiceExercise
+key: c2c39c8d41
+lang: r
+xp: 50
+skills: 1
+```
+
+
+`@instructions`
+
+`@hint`
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
+
+---
+## <<<New Exercise>>>
+
+```yaml
+type: NormalExercise
+key: 0cf4ca43e4
+lang: r
+xp: 100
+skills: 1
+```
+
+
+`@instructions`
+
+`@hint`
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
+
+---
+## <<<New Exercise>>>
+
+```yaml
+type: VideoExercise
+key: c95766bc4c
+lang: r
+xp: 50
+skills: 1
+video_link: player.vimeo.com/video/154783078
+```
+
+
 ---
 ## A really bad movie
 
