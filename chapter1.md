@@ -5,6 +5,44 @@ attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 
+
+---
+## <<<练习0>>>
+
+```yaml
+type: NormalExercise
+key: b6d54a834f
+lang: r
+xp: 100
+skills: 1
+```
+
+
+`@instructions`
+这里是instruction
+
+`@hint`
+提示
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
 ---
 ## <<<练习1>>>
 
